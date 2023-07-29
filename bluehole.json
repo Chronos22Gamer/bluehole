@@ -11,10 +11,12 @@
 "semanticColors": { 
 									"HEADER_PRIMARY": ["#eeeeee"],
 									"HEADER_SECONDARY": ["008cc8"],
+									"TEXT_NORMAL": ["#eeeeee"],
+									"TEXT_MUTED": ["#5a5a5a"],
     
 },
 "rawColors": { 
-						"[ key: string ]": "string"
+						
 
 },
 "background": {
