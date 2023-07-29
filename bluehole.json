@@ -1,0 +1,25 @@
+{
+"name": "Bluehole",
+"description": "A black theme heavily inspired by ClearVision\n Background image taken from https://store.kde.org/p/1222935",
+"authors": [ 
+	{
+		 "name": "Chronos22",
+		 "id": "203531944909078528",
+	}
+],
+"spec": 2,
+"semanticColors": { 
+									"HEADER_PRIMARY": ["#eeeeee"],
+									"HEADER_SECONDARY": ["008cc8"],
+    
+},
+"rawColors": { 
+						"[ key: string ]": "string"
+
+},
+"background": {
+    "blur": 0.6, 
+    "url": "https://i.imgur.com/VaFDkmd.jpg",
+    "alpha": 1.0 
+    },
+}
