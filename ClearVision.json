@@ -447,9 +447,9 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-	"blur": "0.5",
+	"blur": "0.1",
         "url": "https://i.imgur.com/WbRAuHB.jpg",
-	"alpha": "0.85"
+	"alpha": "0.33"
     },
     "plus": {
         "version": 0,
