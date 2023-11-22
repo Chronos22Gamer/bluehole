@@ -447,7 +447,9 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://i.imgur.com/VaFDkmd.jpg"
+	"blur": "0.2",
+        "url": "https://i.imgur.com/VaFDkmd.jpg",
+	"alpha": "0.33"
     },
     "plus": {
         "version": 0,
